@@ -1,0 +1,21 @@
+constructor all type
+
+parametrised constructor
+
+default constructor
+
+superclass
+
+javac -d use of it ?
+
+type of variables in java
+
+instance initialization
+
+static variables
+
+static block
+
+static methods
+
+static classes
