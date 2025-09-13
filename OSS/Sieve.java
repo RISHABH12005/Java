@@ -1,4 +1,4 @@
-# Sieve of Eratosthenes
+// Sieve of Eratosthenes
 public class Sieve{
     static final int SIZE = 12;
     static boolean[] isPrime = new boolean[SIZE+1];
@@ -30,4 +30,5 @@ public class Sieve{
         }
         return -1;}
 }
+
 
